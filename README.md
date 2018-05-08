@@ -16,3 +16,4 @@ Implementación del sensor de acelerómetro al Sistema de Monitore de Adultos Ma
 * **Oscar Ulloa**
 * **Armando Rodarte**
 * **Daniel Hernandez**
+* ** Alexandro Ivan Garcia Perez
